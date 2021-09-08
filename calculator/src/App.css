@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.post {
+  width: 100px;
+}
+
+.reading-progress-bar {
+  position: sticky;
+  height: 5px;
+  top: 0;
+  background-color: #ff0000;
+}
